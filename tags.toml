@@ -1,0 +1,52 @@
+[[tags]]
+slug = "basic"
+name = "ただのブログ"
+
+[[tags]]
+slug = "programming"
+name = "プログラミング"
+
+[[tags]]
+slug = "linux"
+name = "Linux"
+
+[[tags]]
+slug = "react"
+
+name = "React"
+
+[[tags]]
+slug = "rust"
+name = "Rust"
+
+[[tags]]
+slug = "poem"
+name = "日記・ポエム"
+
+[[tags]]
+slug = "game"
+name = "ゲーム"
+
+[[tags]]
+slug = "c-or-cpp"
+name = "C/C++"
+
+[[tags]]
+slug = "review"
+name = "レビュー"
+
+[[tags]]
+slug = "lookback-participate"
+name = "振り返り・参加記録"
+
+[[tags]]
+slug = "notion"
+name = "Notion"
+
+[[tags]]
+slug = "study"
+name = "勉強"
+
+[[tags]]
+slug = "seccamp"
+name = "セキュリティキャンプ"
