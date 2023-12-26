@@ -1,9 +1,9 @@
 ---
-title: "国立聯合大学（台湾）へ留学してきました"
-tags: ["lookback-participate"]
-is_favorite: false
-published_at: "2023-04-03T04:41:30"
-updated_at: "2023-05-24T05:56:01"
+title:        '国立聯合大学（台湾）へ留学してきました'
+tags:         ['lookback-participate']
+is_favorite:  false
+published_at: '2023-04-03T04:41:30'
+updated_at:   '2023-12-26T18:23:17'
 ---
 
 03/04〜04/01まで、台湾へ留学していました。一ヶ月近くの留学でしたが、終わってみれば本当の本当にあっという間でした。この期間でいろいろな事をしていたので、それらをまとめておこうとおもいます。もしここに書いてないことで知りたいことがあったら、TwitterのDMとかで気軽に聞いてください。
